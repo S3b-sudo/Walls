@@ -3,6 +3,6 @@ Some Wallpapers that i have saved over the years
 
 All of these are in no particular order
 | -------- | ------- |
-| ![Alt](0001_city-grey-paint.jpg)  | $250    |
+| <img src="image.jpg" width="50"> | $250    |
 | February | $80     |
 | March    | $420    |
