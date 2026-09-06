@@ -1,7 +1,10 @@
 # Walls
-Some Wallpapers that i have saved over the years
+Some Wallpapers that I have found over the years that I found cool.
 
-All of these are in no particular order
+All of these are in no particular order and none of these are made by me.
+
+This repo will be updated from time to time with new wallpapers.
+
 | Images | Images | Images | Images |
 | -------- | ------- | ------- | ------- |
 | <img src="0001_city-grey-paint.jpg" width="150"> |  <img src="2veek29rath51.jpg" width="150"> | <img src="1st pack/0024_space-astronaut-stars.png" width="150"> | <img src="1st pack/0109_abstract-fractal-dark.png" width="150"> |
