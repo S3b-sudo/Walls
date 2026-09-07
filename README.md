@@ -14,4 +14,6 @@ This repo will be updated from time to time with new wallpapers.
 | <img src="3rd pack/1223.webp" width="150"> |  <img src="3rd pack/aesthetic_deer.jpg" width="150"> | <img src="3rd pack/alan-wake-2-7680x3292-18802.jpg" width="150"> | <img src="3rd pack/astronaut-nord.png" width="150"> |
 | <img src="3rd pack/b-224.jpg" width="150"> |  <img src="3rd pack/blackhole-interstellar.jpg" width="150"> | <img src="4th pack/Bliss.jpg" width="150"> | <img src="4th pack/Boat.png" width="150"> |
 | <img src="4th pack/brain.jpg" width="150"> |  <img src="4th pack/cat-rooftop-silhouette-gg-1912x1076.webp" width="150"> | <img src="4th pack/clouds_above_a_mountain.png" width="150"> | <img src="4th pack/colors.jpg" width="150"> |
-| <img src="4th pack/space-cat.webp" width="150"> |  <img src="4th pack/cat-rooftop-silhouette-gg-1912x1076.webp" width="150"> | <img src="4th pack/clouds_above_a_mountain.png" width="150"> | <img src="4th pack/colors.jpg" width="150"> |
+| <img src="4th pack/space-cat.webp" width="150"> |  <img src="4th pack/dark.jpg" width="150"> | <img src="4th pack/dark_skulls.png" width="150"> | <img src="4th pack/darkpurplewoods.png" width="150"> |
+| <img src="4th pack/dqx4orwnqtue1.png" width="150"> |  <img src="4th pack/firewatch-sun.jpg" width="150"> | <img src="4th pack/forest-bridge.jpg" width="150"> | <img src="4th pack/colors.jpg" width="150"> |
+
