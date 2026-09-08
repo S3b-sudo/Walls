@@ -17,10 +17,10 @@ This repo will be updated from time to time with new wallpapers.
 | <img src="4th pack/space-cat.webp" width="150"> |  <img src="4th pack/dark.jpg" width="150"> | <img src="4th pack/dark_skulls.png" width="150"> | <img src="4th pack/darkpurplewoods.png" width="150"> |
 | <img src="4th pack/dqx4orwnqtue1.png" width="150"> |  <img src="4th pack/firewatch-sun.jpg" width="150"> | <img src="4th pack/forest-bridge.jpg" width="150"> | <img src="4th pack/mound.png" width="150"> |
 | <img src="5th pack/Gradient1.png" width="150"> |  <img src="5th pack/Moon.jpeg" width="150"> | <img src="5th pack/Skyscraper.png" width="150"> | <img src="5th pack/blue-4k.webp" width="150"> |
-| <img src="5th pack/cold.jpg" width="150"> |  <img src="5th pack/dark.jpeg" width="150"> | <img src="5th pack/forest.jpg" width="150"> | <img src="5th pack/h.png" width="150"> |
+| <img src="5th pack/cold.jpg" width="150"> |  <img src="5th pack/dark.jpeg" width="150"> | <img src="5th pack/forest.jpeg" width="150"> | <img src="5th pack/h.png" width="150"> |
 | <img src="5th pack/home.jpg" width="150"> |  <img src="5th pack/kitty_BOD.jpg" width="150"> | <img src="5th pack/link-climb.jpg" width="150"> | <img src="5th pack/mound2.jpeg" width="150"> |
 | <img src="5th pack/mrange.jpg" width="150"> |  <img src="5th pack/neb.png" width="150"> | <img src="5th pack/od_error.png" width="150"> | <img src="5th pack/odysee.jpg" width="150"> |
-| <img src="5th pack/python-dev.png" width="150"> |  <img src="5th pack/red-forest.jpg" width="150"> | <img src="5th pack/tree2.jpeg" width="150"> | <img src="5th pack/odysee.jpg" width="150"> |
+| <img src="5th pack/python-dev.png" width="150"> |  <img src="5th pack/red-forest.jpg" width="150"> | <img src="5th pack/tree2.jpeg" width="150"> | <img src="5th pack/view.jpg" width="150"> |
 
 ## Sources:
 I do not remember where I got the majority of these. Some are from Reddit, others are from just googling.
