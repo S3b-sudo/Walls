@@ -21,6 +21,9 @@ This repo will be updated from time to time with new wallpapers.
 | <img src="5th pack/home.jpg" width="150"> |  <img src="5th pack/kitty_BOD.jpg" width="150"> | <img src="5th pack/link-climb.jpg" width="150"> | <img src="5th pack/mound2.jpeg" width="150"> |
 | <img src="5th pack/mrange.jpg" width="150"> |  <img src="5th pack/neb.png" width="150"> | <img src="5th pack/od_error.png" width="150"> | <img src="5th pack/odysee.jpg" width="150"> |
 | <img src="5th pack/python-dev.png" width="150"> |  <img src="5th pack/red-forest.jpg" width="150"> | <img src="5th pack/tree2.jpeg" width="150"> | <img src="5th pack/view.jpg" width="150"> |
+| <img src="More Packs/Pack 6/1.jpg" width="150"> |  <img src="More Packs/Pack 6/2.jpg" width="150"> | <img src="More Packs/Pack 6/3.png" width="150"> | <img src="More Packs/Pack 6/4.png" width="150"> |
+| <img src="More Packs/Pack 6/5.jpg" width="150"> |  <img src="More Packs/Pack 6/6.jpeg" width="150"> | <img src="More Packs/Pack 6/7.png" width="150"> | <img src="More Packs/Pack 6/8.png" width="150"> |
+| <img src="More Packs/Pack 6/10.png" width="150"> |  <img src="More Packs/Pack 6/9.jpg" width="150"> | <img src="More Packs/Pack 6/11.png" width="150"> |
 
 ## Sources:
 I do not remember where I got the majority of these. Some are from Reddit, others are from just googling.
