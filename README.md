@@ -25,7 +25,8 @@ This repo will be updated from time to time with new wallpapers.
 | <img src="5th pack/python-dev.png" width="150"> |  <img src="5th pack/red-forest.jpg" width="150"> | <img src="5th pack/tree2.jpeg" width="150"> | <img src="5th pack/view.jpg" width="150"> |
 |  <img src="More Packs/Pack 6/2.jpg" width="150"> | <img src="More Packs/Pack 6/3.png" width="150"> | <img src="More Packs/Pack 6/4.png" width="150"> | <img src="More Packs/Pack 6/8.png" width="150"> |
 | <img src="More Packs/Pack 6/5.jpg" width="150"> |  <img src="More Packs/Pack 6/7.png" width="150"> | <img src="More Packs/Pack 6/11.png" width="150"> | <img src="More Packs/Pack 6/9.jpg" width="150"> | 
-| <img src="More Packs/Pack 6/10.png" width="150"> |  
-
+| <img src="More Packs/Pack 6/10.png" width="150"> | <img src="More Packs/Pack 7/1.jpeg" width="150"> | <img src="More Packs/Pack 7/2.jpeg" width="150"> | <img src="More Packs/Pack 7/3.png" width="150"> | 
+| <img src="More Packs/Pack 7/4.png" width="150"> | <img src="More Packs/Pack 7/5.jpg" width="150"> | <img src="More Packs/Pack 7/6.jpeg" width="150"> | <img src="More Packs/Pack 7/7.jpeg" width="150"> | 
+| <img src="More Packs/Pack 7/8.jpeg" width="150"> | 
 ## Sources:
 I do not remember where I got the majority of these. Some are from Reddit, others are from just googling.
