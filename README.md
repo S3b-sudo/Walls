@@ -5,7 +5,7 @@ All of these are in no particular order and none of these are made by me.
 
 This repo will be updated from time to time with new wallpapers.
 
-🗓️ Last Updated: Oct 16, 2026
+🗓️ Last Updated: Nov 07, 2026
 
 | Images | Images | Images | Images |
 | -------- | ------- | ------- | ------- |
@@ -30,6 +30,6 @@ This repo will be updated from time to time with new wallpapers.
 | <img src="More Packs/Pack 7/8.jpeg" width="150"> | <img src="More Packs/Pack 8/1.jpeg" width="150"> | <img src="More Packs/Pack 8/2.jpeg" width="150"> | <img src="More Packs/Pack 8/3.jpeg" width="150"> |
 | <img src="More Packs/Pack 8/4.png" width="150"> | <img src="More Packs/Pack 8/5.jpeg" width="150"> | <img src="More Packs/Pack 8/6.jpeg" width="150"> | <img src="More Packs/Pack 8/7.png" width="150"> |
 | <img src="More Packs/Pack 9/1.jpeg" width="150"> | <img src="More Packs/Pack 9/2.jpeg" width="150"> | <img src="More Packs/Pack 9/3.jpeg" width="150"> | <img src="More Packs/Pack 9/4.jpeg" width="150"> |
-| <img src="More Packs/Pack 9/5.png" width="150"> | <img src="More Packs/Pack 9/6.jpeg" width="150"> | <img src="More Packs/Pack 9/7.jpeg" width="150"> |
+| <img src="More Packs/Pack 9/5.png" width="150"> | <img src="More Packs/Pack 9/6.png" width="150"> | <img src="More Packs/Pack 9/7.jpeg" width="150"> |
 ## Sources:
 I do not remember where I got the majority of these. Some are from Reddit, others are from just googling.
